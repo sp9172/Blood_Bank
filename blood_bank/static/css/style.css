@@ -1,0 +1,14 @@
+.content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+      background: #030303;
+    height: 100vh;
+  }
+  
+  .value {
+    font-size: 150px;
+    display: block;
+    font-weight: bold;
+    color: #fff;
+  }
